@@ -1,6 +1,10 @@
 # Google Search crawler using Jsoup- Java library
 
-This program makes use of <a href="http://jsoup.org/download">Jsoup</a> library, which can crawl as well as parse HTML. 
+This program makes use of <a href="http://jsoup.org/download">Jsoup</a> library, which can crawl as well as parse HTML. It gives you the following:
+
+1. Title
+2. Link
+3. Short Abstract
 
 ## Steps:
 =========
