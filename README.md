@@ -15,23 +15,23 @@ This program makes use of <a href="http://jsoup.org/download">Jsoup</a> library,
 
 ## Sample Output
 
-Title : The Association for Natural Language Processing ... - ??????
-Site : www.anlp.jp/en/
-Abstract : Through the publication of a quarterly association journal titled Journal of Natural Language Processing and the hosting of annual meetings of the Association for Natural Language Processing, the association strives to promote this academic ...
+Title : The Association for Natural Language Processing ... - ?????? <br>
+Site : www.anlp.jp/en/ <br>
+Abstract : Through the publication of a quarterly association journal titled Journal of Natural Language Processing and the hosting of annual meetings of the Association for Natural Language Processing, the association strives to promote this academic ... <br>
 
-Title : The Association for Natural Language Processing Home Page
-Site : www.anlp.jp/
-Abstract : ??????(The Association for Natural Language Processing)?????? ?????????????????????????????????1994?4?1 ?????????? ???4?????????????????1?????? ?? ...
+Title : The Association for Natural Language Processing Home Page <br>
+Site : www.anlp.jp/ <br>
+Abstract : ??????(The Association for Natural Language Processing)?????? ?????????????????????????????????1994?4?1 ?????????? ???4?????????????????1?????? ?? ... <br>
 
-Title : The Stanford NLP (Natural Language Processing) Group
-Site : nlp.stanford.edu/
-Abstract : Stanford Natural Language Processing and Computational Linguistics Group.
+Title : The Stanford NLP (Natural Language Processing) Group <br>
+Site : nlp.stanford.edu/ <br>
+Abstract : Stanford Natural Language Processing and Computational Linguistics Group. <br>
 
-Title : Natural Language Processing - Research at Google
-Site : research.google.com/pubs/NaturalLanguageProcessing.html
-Abstract : Most NLP applications such as information extraction, machine translation, sentiment analysis and question answering, require both .... Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing ( EMNLP '14).
+Title : Natural Language Processing - Research at Google <br>
+Site : research.google.com/pubs/NaturalLanguageProcessing.html <br>
+Abstract : Most NLP applications such as information extraction, machine translation, sentiment analysis and question answering, require both .... Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing ( EMNLP '14). <br>
 
-Title : natural language processing blog
-Site : nlpers.blogspot.com/
-Abstract : 15 Nov 2014 ... This is often tough because in the current NLP atmosphere in which we're obsessed with shiny new techniques, it's not appealing to show that the new data gets you 90% of the gain and the new technique is only 10% on top ...
+Title : natural language processing blog <br>
+Site : nlpers.blogspot.com/ <br>
+Abstract : 15 Nov 2014 ... This is often tough because in the current NLP atmosphere in which we're obsessed with shiny new techniques, it's not appealing to show that the new data gets you 90% of the gain and the new technique is only 10% on top ... <br>
 
