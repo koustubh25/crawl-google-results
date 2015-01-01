@@ -1,5 +1,7 @@
 # Google Search crawler using Jsoup- Java library
 
+This program makes use of <a href="http://jsoup.org/download">Jsoup</a> library, which can crawl as well as parse HTML. 
+
 ## Steps:
 =========
 1. Clone this repo.
