@@ -3,7 +3,7 @@
 This program makes use of <a href="http://jsoup.org/download">Jsoup</a> library, which can crawl as well as parse HTML. It gives you the following:
 
 1. Title
-2. Link
+2. Site
 3. Short Abstract
 
 ## Steps:
@@ -14,14 +14,6 @@ This program makes use of <a href="http://jsoup.org/download">Jsoup</a> library,
 4. Run the program.
 
 ## Sample Output
-
-Title : The Association for Natural Language Processing ... - ?????? <br>
-Site : www.anlp.jp/en/ <br>
-Abstract : Through the publication of a quarterly association journal titled Journal of Natural Language Processing and the hosting of annual meetings of the Association for Natural Language Processing, the association strives to promote this academic ... <br>
-
-Title : The Association for Natural Language Processing Home Page <br>
-Site : www.anlp.jp/ <br>
-Abstract : ??????(The Association for Natural Language Processing)?????? ?????????????????????????????????1994?4?1 ?????????? ???4?????????????????1?????? ?? ... <br>
 
 Title : The Stanford NLP (Natural Language Processing) Group <br>
 Site : nlp.stanford.edu/ <br>
